@@ -5,7 +5,7 @@ _Tady zkusím pár úpráv textu._
 *Takto to jde taky.*
 __Takto je to tučné.__
 **A takto taky.**
-
+~~Co je toto~~
 ### _Třetí úroveň_
 Blabla
 ```
@@ -16,7 +16,7 @@ ZKOUŠKA
 2. List s číslem 2
   * To kdo ví co dělá.
 1. Sublist?
-..3. Hmmm
+3. Hmmm
 
 ## A zpět do úrovně dva
 
