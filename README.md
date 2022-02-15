@@ -1,7 +1,7 @@
 # digital-electronics-1
 
 ## Ahoj! Vůbec nevím, co sem mám napsat, tak aspoň nějaký nepodstatný text.
-_Tady zkusím pár úpráv textu_
+_Tady zkusím pár úpráv textu_.
 *Takto to jde taky*
 __Takto je to tučné__
 **A takto taky**
