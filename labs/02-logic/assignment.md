@@ -79,7 +79,7 @@
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure]()
+   ![your figure](images/de1-22.png)
 
 3. Link to your public EDA Playground example:
 
