@@ -21,7 +21,7 @@
 
 1. Figure of state diagram:
 
-   ![your figure]()
+   ![your figure](images/de1-82.png)
 
 2. Listing of VHDL code of the completed process `p_traffic_fsm`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
